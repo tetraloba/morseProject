@@ -2,7 +2,7 @@
 #include <windows.h>
 #include "play.hpp"
 
-#define HZ 440
+#define HZ 880
 #define SHORT 150
 
 std::string CHARS[26] = { ".-  ", "-...", "-.-.", "-.. ",
